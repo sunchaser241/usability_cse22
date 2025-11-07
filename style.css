@@ -174,3 +174,13 @@ ul {
 .feature-card p {
   text-align: center;
 }
+/* big feature */
+.feature-img img {
+  width: 100%;
+}
+.feature-desc {
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  gap: 10px;
+}
