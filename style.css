@@ -254,10 +254,5 @@ footer {
 }
 .subfooter-container {
   justify-content: center;
-  gap: 20px;
-  align-items: center;
-  padding: var(--padding-inline-section);
-}
-.spacer {
-  min-height: 50vh;
+  gap: 10px;
 }
